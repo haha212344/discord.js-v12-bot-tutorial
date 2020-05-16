@@ -30,7 +30,7 @@ module.exports = {
         .addField('Critical cases', corona.critical, true)
         .setFooter(`Thanks for using ${client.user.username}`, client.user.displayAvatarURL())
 
-        message.channel.send(embed);
+        message.channel.send(embed)
 
     }
 }
