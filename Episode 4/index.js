@@ -31,10 +31,10 @@ client.on('ready', () => {
 
 
 let stats = {
-    serverID: '701479706402226278',
-    total: "709639055691743244",
-    member: "709639118346256384",
-    bots: "709639182993195009"
+    serverID: '<SERVER ID>',
+    total: "<ID>",
+    member: "<ID>",
+    bots: "<ID>"
 }
 
 
